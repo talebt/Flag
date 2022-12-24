@@ -1,2 +1,3 @@
 # Flag
-https://cozy-tartufo-0b8bad.netlify.app/
+https://palestine-flag.netlify.app/
+
